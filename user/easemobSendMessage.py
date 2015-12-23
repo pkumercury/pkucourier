@@ -29,3 +29,6 @@ def send_message(user, message):
 
     return html
     # print(html)
+
+    return html
+    # print(html)
